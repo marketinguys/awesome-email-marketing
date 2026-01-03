@@ -47,6 +47,7 @@
 * **[Smartwriter](https://www.smartwriter.ai/)** – Personalized outreach with AI.
 * **[Jasper](https://www.jasper.ai/)** – Templates for marketing emails and newsletters.
 * **[Flowrite](https://www.flowrite.com/)** – Write complete emails from short prompts.
+* **[Vedika API](https://vedika.io)** – Vedic astrology API for personalized horoscope and panchang content. Daily/weekly/monthly predictions in 22 languages with AI chatbot integration.
 
 ## Deliverability & Testing
 
