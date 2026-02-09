@@ -47,6 +47,7 @@
 * **[Smartwriter](https://www.smartwriter.ai/)** – Personalized outreach with AI.
 * **[Jasper](https://www.jasper.ai/)** – Templates for marketing emails and newsletters.
 * **[Flowrite](https://www.flowrite.com/)** – Write complete emails from short prompts.
+* **[Cobalt Studio Email Generators](https://techchenko.github.io/cobaltstudio-products/tools/)** – Free, no-signup generators for cold emails, invoice follow-ups, kickoff emails, and testimonial requests.
 
 ## Deliverability & Testing
 
