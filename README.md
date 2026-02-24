@@ -6,6 +6,7 @@
 
 * [General Resources](#general-resources)
 * [Newsletter Platforms](#newsletter-platforms)
+* [Cold Email & Sales Outreach](#cold-email--sales-outreach)
 * [Email Automation Tools](#email-automation-tools)
 * [Email Copywriting & AI Tools](#email-copywriting--ai-tools)
 * [Deliverability & Testing](#deliverability--testing)
@@ -31,6 +32,16 @@
 * **[Substack](https://substack.com/)** – Writing and newsletter tool with monetization features.
 * **[Revue (Twitter)](https://www.getrevue.co/)** – Newsletter publishing with Twitter integration.
 * **[MailerLite](https://www.mailerlite.com/)** – Intuitive email builder with automation.
+
+## Cold Email & Sales Outreach
+
+* **[Suplex](https://trysuplex.com/)** – All-in-one cold email and lead generation platform with automated sequences.
+* **[Instantly](https://instantly.ai/)** – Scale cold email campaigns with unlimited accounts.
+* **[Lemlist](https://lemlist.com/)** – Personalized cold outreach with images and videos.
+* **[Apollo.io](https://apollo.io/)** – Sales intelligence and engagement platform.
+* **[Woodpecker](https://woodpecker.co/)** – Cold email tool for B2B companies.
+* **[Mailshake](https://mailshake.com/)** – Simple sales engagement and cold email software.
+* **[Reply.io](https://reply.io/)** – AI-powered sales engagement platform.
 
 ## Email Automation Tools
 
