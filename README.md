@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[Verifly](https://verifly.email/)** – Affordable email verification API to clean lists and reduce bounces. Pay-as-you-go.
 
 ## Templates & Design
 
