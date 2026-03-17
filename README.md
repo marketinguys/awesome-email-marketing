@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* **[SocialBu](https://socialbu.com/)** – AI-powered social media management platform with automation, analytics, and AI content generation for cross-channel marketing workflows.
 
 ## Email Copywriting & AI Tools
 
