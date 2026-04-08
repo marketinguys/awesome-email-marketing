@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* **[Overloop CLI](https://github.com/sortlist/overloop-cli)** – AI-powered outbound engine. Source 450M+ contacts, run email + LinkedIn campaigns, manage conversations. JSON output. `npm i -g overloop-cli`
 
 ## Email Copywriting & AI Tools
 
@@ -77,6 +78,7 @@
 * **[Sumo](https://sumo.com/)** – Lead magnets and popups.
 * **[OptinMonster](https://optinmonster.com/)** – Email opt-in form builder.
 * **[ConvertBox](https://convertbox.com/)** – Personalized lead capture overlays.
+* **[Signals CLI](https://github.com/sortlist/signals-cli)** – Intent signal monitoring for lead capture. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output. `npm i -g signals-sortlist-cli`
 
 ## Best Practices & Guides
 
