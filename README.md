@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* **[EmailQo](https://emailqo.com)** – Deliverability-first email outreach platform. Warmup, pre-send checks, spam scoring, AI reply sorting. Connect Gmail, Outlook, or AWS SES. From $19/mo.
 
 ## Email Copywriting & AI Tools
 
@@ -55,6 +56,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader)** – Free tool to check SPF, DKIM, DMARC and mail server. Scores any domain out of 100. No signup required.
 
 ## Templates & Design
 
