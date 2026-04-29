@@ -55,6 +55,9 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[MiN8T Spam Score Checker](https://min8t.com/tools/spam-checker/)** – Free unlimited 21-rule SpamAssassin-style scoring with rule-by-rule breakdown.
+* **[MiN8T Inbox Preview](https://min8t.com/tools/inbox-preview/)** – Free side-by-side render of HTML email in Gmail, Apple Mail, and a strict-mode Outlook approximation.
+* **[MiN8T Email Header Analyzer](https://min8t.com/tools/header-analyzer/)** – Free in-browser SMTP header parser; trace hops, decode SPF/DKIM/DMARC verdicts.
 
 ## Templates & Design
 
@@ -63,6 +66,9 @@
 * **[Mailchimp Email Templates](https://mailchimp.com/email-templates/)** – Pre-built templates.
 * **[MJML](https://mjml.io/)** – Framework for responsive email development.
 * **[Unlayer](https://unlayer.com/)** – Embeddable email editor.
+* **[MiN8T CSS Inliner](https://min8t.com/tools/css-inliner/)** – Free in-browser CSS inliner for HTML email; preserves @media, @keyframes, pseudo-classes.
+* **[MiN8T MJML to HTML](https://min8t.com/tools/mjml-converter/)** – Free in-browser MJML compiler with live iframe preview.
+* **[MiN8T Bulletproof Button Generator](https://min8t.com/tools/button-generator/)** – Free email-safe CTA button generator with VML fallback for Outlook desktop.
 
 ## Analytics & A/B Testing
 
@@ -70,6 +76,8 @@
 * **[Campaign Monitor](https://www.campaignmonitor.com/)** – Email marketing with built-in A/B testing.
 * **[Vero](https://www.getvero.com/)** – Behavioral emails with testing.
 * **[HubSpot Email Tools](https://www.hubspot.com/products/marketing/email)** – Full analytics suite.
+* **[MiN8T A/B Test Sample Size Calculator](https://min8t.com/tools/ab-test-calculator/)** – Free z-test sample-size calculator for email A/B tests with email-marketer presets (subject / send-time / from-name / template).
+* **[MiN8T Subject Line Analyzer](https://min8t.com/tools/subject-line-analyzer/)** – Free real-time subject line scoring on length, spam triggers, sentiment, emoji, caps, personalization tokens.
 
 ## List Building & Lead Capture
 
