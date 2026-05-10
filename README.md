@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* **[SalesLabel](https://sales-label.com)** – White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows, unlimited sending inboxes, and built-in deliverability infrastructure.
 
 ## Email Copywriting & AI Tools
 
