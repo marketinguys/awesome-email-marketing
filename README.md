@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* **[Sequenzy](https://sequenzy.com/)** – Email marketing and transactional email workflows for SaaS and product teams, with an agent skill for campaign and sequence operations.
 
 ## Email Copywriting & AI Tools
 
