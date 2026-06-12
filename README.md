@@ -47,6 +47,7 @@
 * **[Smartwriter](https://www.smartwriter.ai/)** – Personalized outreach with AI.
 * **[Jasper](https://www.jasper.ai/)** – Templates for marketing emails and newsletters.
 * **[Flowrite](https://www.flowrite.com/)** – Write complete emails from short prompts.
+* **[CreatorSkills](https://creatorskills.co)** – Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude & ChatGPT.
 
 ## Deliverability & Testing
 
