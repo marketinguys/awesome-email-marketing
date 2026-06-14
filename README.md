@@ -63,6 +63,7 @@
 * **[Mailchimp Email Templates](https://mailchimp.com/email-templates/)** – Pre-built templates.
 * **[MJML](https://mjml.io/)** – Framework for responsive email development.
 * **[Unlayer](https://unlayer.com/)** – Embeddable email editor.
+* **[igly.ai](https://igly.ai)** – AI image editor for campaign visuals, product shots, background removal, inpainting, upscaling, and generative fill.
 
 ## Analytics & A/B Testing
 
