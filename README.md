@@ -63,6 +63,7 @@
 * **[Mailchimp Email Templates](https://mailchimp.com/email-templates/)** – Pre-built templates.
 * **[MJML](https://mjml.io/)** – Framework for responsive email development.
 * **[Unlayer](https://unlayer.com/)** – Embeddable email editor.
+* **[Cold Outreach Tracker](https://github.com/charlie-morrison/cold-outreach-tracker)** – Free no-CRM Google Sheets/CSV template to track cold email follow-ups with a 4-touch cadence, reply sentiment, and pipeline value.
 
 ## Analytics & A/B Testing
 
