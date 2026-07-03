@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 
 ## Email Copywriting & AI Tools
 
