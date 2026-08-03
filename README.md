@@ -70,6 +70,7 @@
 * **[Campaign Monitor](https://www.campaignmonitor.com/)** – Email marketing with built-in A/B testing.
 * **[Vero](https://www.getvero.com/)** – Behavioral emails with testing.
 * **[HubSpot Email Tools](https://www.hubspot.com/products/marketing/email)** – Full analytics suite.
+* **[Osservatorio Cold Email Italia](https://clientium.it/osservatorio/)** – Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by sector (CC BY 4.0).
 
 ## List Building & Lead Capture
 
