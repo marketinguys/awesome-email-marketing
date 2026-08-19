@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[Inboxproof](https://geographic-resulting-asian-archives.trycloudflare.com/)** – Free email deliverability audit (MX, SPF, DKIM, DMARC, TLS, IP reputation) with a 0-100 score, exact fix records, and daily monitoring.
 
 ## Templates & Design
 
