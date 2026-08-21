@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[Inboxproof](https://inboxproof-phi.vercel.app/)** – Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 
 ## Templates & Design
 
