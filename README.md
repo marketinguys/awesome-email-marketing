@@ -84,6 +84,7 @@
 * **[HubSpot Academy Email Course](https://academy.hubspot.com/courses/email-marketing)** – Free certification and training.
 * **[Campaign Monitor Best Practices](https://www.campaignmonitor.com/resources/guides/)** – Deliverability, design, and copy tips.
 * **[Litmus Learning Hub](https://www.litmus.com/resources/)** – Email testing, trends, and design principles.
+* **[Email Authentication Statistics 2026](https://www.ohmysend.com/deliverability-solutions/email-authentication-statistics)** – Original study of 217 real emails from 34 brands: only 57% enforce p=reject; SendGrid carries 57% at transport layer.
 
 ## Communities
 
