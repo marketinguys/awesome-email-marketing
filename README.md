@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo)** – Offline HTML campaign QA CLI with structured JSON and client-readable Markdown sample reports.
 
 ## Templates & Design
 
