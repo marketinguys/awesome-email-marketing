@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[Warmerly](https://warmerly.com/)** – Email warmup and cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests.
 
 ## Templates & Design
 
