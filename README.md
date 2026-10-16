@@ -39,6 +39,7 @@
 * **[Moosend](https://moosend.com/)** – Easy-to-use marketing automation.
 * **[Drip](https://www.drip.com/)** – E-commerce focused email automation.
 * **[Mailjet](https://www.mailjet.com/)** – Collaborative email creation and workflows.
+* **[Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio)** – Open-source, self-hosted transactional and broadcast email platform with a Resend-compatible API.
 
 ## Email Copywriting & AI Tools
 
