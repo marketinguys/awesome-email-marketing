@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* * **[Email Validation](https://email-validation.org/)** – Validate email addresses in bulk or via API/MCP, pay-as-you-go from $35/10k credits, up to 500 free credits.
 
 ## Templates & Design
 
