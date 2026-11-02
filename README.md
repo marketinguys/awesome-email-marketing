@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[CheckMail1](https://checkmail1.com/)** - Email verification API for cleaning large lists: bulk CSV upload, disposable and role-based detection, REST API, free credits to start (no credit card).
 
 ## Templates & Design
 
