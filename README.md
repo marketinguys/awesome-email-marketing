@@ -56,6 +56,8 @@
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
 
+* **[FairValid](https://fairvalid.com/)** – Email list verification with CSV exports and an API; includes 300 free credits per month.
+
 ## Templates & Design
 
 * **[Stripo](https://stripo.email/)** – Drag-and-drop responsive email template builder.
