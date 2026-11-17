@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[warmed-up.email](https://warmed-up.email/)** – Cold email infrastructure, mailbox warmup ramp automation, and spam rescue watchdog for Google Workspace and Microsoft 365.
 
 ## Templates & Design
 
