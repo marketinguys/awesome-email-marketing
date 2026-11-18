@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[InboxReady](https://github.com/hymzh945-hash/inboxready)** – Scores an .eml draft before you send it: subject caps, spam trigger phrases, link count, risky or phantom attachments, HTML-only MIME shape.
 
 ## Templates & Design
 
