@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[Transmitly](https://transmitly.io/)** – Transactional email API and SMTP relay with owned sending infrastructure, per-recipient delivery states and deliverability tooling.
 
 ## Templates & Design
 
