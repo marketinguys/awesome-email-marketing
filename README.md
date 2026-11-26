@@ -55,6 +55,7 @@
 * **[Sender Score](https://www.senderscore.org/)** – Measure reputation of your sending IP.
 * **[Litmus](https://www.litmus.com/)** – Email previews, testing, and analytics.
 * **[Postmark](https://postmarkapp.com/)** – Reliable transactional email with high deliverability.
+* **[InboxShield](https://inbox.shipbastion.com/)** – Audit SPF 10-lookup limits, RFC 7489 DMARC policies, DKIM, BIMI, MTA-STS, and DANE records.
 
 ## Templates & Design
 
